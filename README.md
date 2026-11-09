@@ -1,2 +1,2 @@
 # bo7-extended-fov-stripped
-BO7 Zombies Extended FOV Mod for Kronos Launcher. Extended View Model FOV &amp; FOV Scale like BO3 Zombies.
+A stripped down version of my [BO7 Zombies Extended FOV Mod](https://github.com/Krimsinxx/bo7-extended-fov/tree/main)
