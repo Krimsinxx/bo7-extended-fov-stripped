@@ -7,3 +7,6 @@ Download and copy `extended_fov.gsc` from the [latest](https://github.com/Krimsi
 ### OR
 
 Download the code as a zip and extract the `extended_fov` folder into `cod25\kronos\mods`
+
+## Configure FOV
+Open `extended_fov.gsc` and edit the values for `cg_fov_viewmodel` and `cg_fovScale`
